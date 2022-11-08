@@ -5,6 +5,9 @@
 ## Screenshot
 ![](images/portfolio.png)
 
+## deployed application
+
+
 ## Description:
 This is a collection of my work and information.
 ## Table of Contents:
@@ -18,7 +21,7 @@ This is a collection of my work and information.
 * [Testing](#testing)
 * [Questions](#questions)
       
-## Installation: This is just an HTML page so all ypu have to do is click on the link below to deploy the page.
+## Installation: This is just an HTML page so all you have to do is click on the link below to deploy the page.
 
 ## Usage: 
 This project will fill out more as time goes on, and can be a reference for any potential employers.
