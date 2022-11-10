@@ -6,6 +6,7 @@
 ![](images/portfolio.png)
 
 ## deployed application
+https://banjosquash.github.io/professional-portfolio/
 
 
 ## Description:
